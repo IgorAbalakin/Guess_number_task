@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,25 +31,25 @@
 ### Краткая информация о данных
 
   
-:arrow_up:[к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 1. Исправление написанного кода с целью сокращения среднего числа попыток для угадывания числа (менее 20) 
 
-:arrow_up:[к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
 ### Результат:  
 Внесенные изменения позволяют угадывать число из интервала от 1 до 100 в среднем за 5 попыток (при количестве итераций n=1000)
 
-:arrow_up:[к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
 Финальное задание из [PYTHON-8. Инструменты для Data Science](https://skillfactory.ru/data-science-specialization) выполнено.
 
-:arrow_up:[к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль звездами ⭐️⭐️⭐️
