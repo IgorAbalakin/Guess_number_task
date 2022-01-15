@@ -27,6 +27,8 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
+
 
 ### Краткая информация о данных
 
@@ -40,13 +42,13 @@
 :arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
-### Результат:  
+### Результат  
 Внесенные изменения позволяют угадывать число из интервала от 1 до 100 в среднем за 5 попыток (при количестве итераций n=1000)
 
 :arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
 
 
-### Выводы:  
+### Выводы  
 Финальное задание из [PYTHON-8. Инструменты для Data Science](https://skillfactory.ru/data-science-specialization) выполнено.
 
 :arrow_up: [к оглавлению](https://github.com/IgorA62/Project0/blob/main/README.md#Оглавление)
